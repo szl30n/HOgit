@@ -1,3 +1,5 @@
+# szl30n edited this file [!]
+
 # Commands for making git repository
 ```
 git status
@@ -48,8 +50,6 @@ git branch -a
 git push
 ```
 # The end!
-
-# szl30n edited this file [!]
 
 # HOgit
 Repositorio con ejercicios para practicar comandos básicos de git
