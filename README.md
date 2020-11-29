@@ -1,4 +1,49 @@
-# szl30n edited this file again [!]
+# Commands for making git repository
+git status
+git branch -a
+git clone https://github.com/szl30n/HOgit.git
+cd HOgit
+vi README.md
+git add README.md
+git commit -m ''
+git status
+git branch -a
+git branch charlas
+git checkout charlas
+git branch -a
+vi README.md
+git add README.md
+git commit -m ''
+git status
+git branch -a
+git checkout master
+git branch -a
+git branch ejercicios
+git checkout ejercicios
+git branch -a
+vi ejercicios.md
+git add ejercicios.md
+git commit -m ''
+git status
+git branch -a
+git checkout master
+git branch -a
+git merge --no-ff ejercicios
+git merge --no-ff charlas
+git status
+git branch -a
+git log --online --graph
+git push -u origin master
+git push -u origin ejercicios
+git push -u origin charlas
+vi README.md
+# Next steps
+git add README.md
+git commit
+git status
+git branch -a
+git push
+# The end!
 
 # szl30n edited this file [!]
 
