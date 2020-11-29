@@ -1,4 +1,5 @@
 # Commands for making git repository
+```
 git status
 git branch -a
 git clone https://github.com/szl30n/HOgit.git
@@ -37,12 +38,15 @@ git push -u origin master
 git push -u origin ejercicios
 git push -u origin charlas
 vi README.md
+```
 # Next steps
+```
 git add README.md
 git commit
 git status
 git branch -a
 git push
+```
 # The end!
 
 # szl30n edited this file [!]
